@@ -1,2 +1,2 @@
 # odds-and-ends
-This is is place for my coding efforts that don't go easily elsewhere.
+This is is place for coding efforts that don't go easily elsewhere.
